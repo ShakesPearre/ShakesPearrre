@@ -1,5 +1,5 @@
 <div id="header" align="center">
-        <img src="http://corwindev.nl/corwindev.png"/></div>
+        <img src="[http://corwindev.nl/corwindev.png](https://media.discordapp.net/attachments/526810663037960202/1095920113426911292/glow_1.png)"/></div>
 
 <h1 align="center"><b>Hey there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
